@@ -6,3 +6,4 @@
 - **[2026-03-02 10:29:26]** (4) perf(backdrop): cache image filter shaders across rebuilds
 - **[2026-03-02 13:46:49]** (5) style(dialog): create modal popup with blurred background
 - **[2026-03-02 16:03:12]** (6) test(widgets): add goldens test for glassmorphic elements
+- **[2026-03-03 11:36:39]** (7) docs(examples): document customizable blur opacity parameters
