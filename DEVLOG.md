@@ -22,3 +22,4 @@
 - **[2026-03-06 19:48:27]** (20) test(widgets): add goldens test for glassmorphic elements
 - **[2026-03-07 11:04:31]** (21) docs(examples): document customizable blur opacity parameters
 - **[2026-03-07 14:21:54]** (22) feat(glass): add frosted glass card container with blur radius
+- **[2026-03-07 17:38:17]** (23) ui(buttons): implement translucent gradient action buttons
