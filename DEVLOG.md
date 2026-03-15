@@ -49,3 +49,4 @@
 - **[2026-03-15 11:00:15]** (47) style(dialog): create modal popup with blurred background
 - **[2026-03-15 14:17:38]** (48) test(widgets): add goldens test for glassmorphic elements
 - **[2026-03-15 17:34:01]** (49) docs(examples): document customizable blur opacity parameters
+- **[2026-03-15 20:51:24]** (50) feat(glass): add frosted glass card container with blur radius
