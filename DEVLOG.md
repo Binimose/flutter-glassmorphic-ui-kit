@@ -51,3 +51,4 @@
 - **[2026-03-15 17:34:01]** (49) docs(examples): document customizable blur opacity parameters
 - **[2026-03-15 20:51:24]** (50) feat(glass): add frosted glass card container with blur radius
 - **[2026-03-16 10:07:28]** (51) ui(buttons): implement translucent gradient action buttons
+- **[2026-03-16 13:24:51]** (52) fix(render): resolve GPU shader compile jank on iOS Impeller
