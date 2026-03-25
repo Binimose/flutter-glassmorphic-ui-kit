@@ -82,3 +82,4 @@
 - **[2026-03-24 19:54:21]** (80) fix(render): resolve GPU shader compile jank on iOS Impeller
 - **[2026-03-25 11:10:25]** (81) perf(backdrop): cache image filter shaders across rebuilds
 - **[2026-03-25 14:27:48]** (82) style(dialog): create modal popup with blurred background
+- **[2026-03-25 17:44:11]** (83) test(widgets): add goldens test for glassmorphic elements
