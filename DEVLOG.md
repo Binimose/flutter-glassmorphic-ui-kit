@@ -87,3 +87,4 @@
 - **[2026-03-26 13:34:01]** (85) feat(glass): add frosted glass card container with blur radius
 - **[2026-03-26 16:51:24]** (86) ui(buttons): implement translucent gradient action buttons
 - **[2026-03-27 11:24:51]** (87) fix(render): resolve GPU shader compile jank on iOS Impeller
+- **[2026-03-27 14:41:14]** (88) perf(backdrop): cache image filter shaders across rebuilds
