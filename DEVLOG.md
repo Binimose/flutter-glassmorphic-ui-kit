@@ -88,3 +88,4 @@
 - **[2026-03-26 16:51:24]** (86) ui(buttons): implement translucent gradient action buttons
 - **[2026-03-27 11:24:51]** (87) fix(render): resolve GPU shader compile jank on iOS Impeller
 - **[2026-03-27 14:41:14]** (88) perf(backdrop): cache image filter shaders across rebuilds
+- **[2026-03-27 17:58:37]** (89) style(dialog): create modal popup with blurred background
